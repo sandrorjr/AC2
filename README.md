@@ -38,7 +38,8 @@ Se o Git é o coração do GitHub, então o Hub é a alma. O hub de GitHub é o 
 Além de contribuir em projetos específicos, o GitHub permite a socialização com pessoas que possuem os mesmos interesses que você. Você pode seguir pessoas e acompanhar o que fazem ou com quem se comunicam.
 
 Agora vamos mostrar um pouco de como usar o GitHub e suas características.
-Repositório
+
+**Repositório**
 
 Repositório, ou repo, é um diretório onde os arquivos do seu projeto ficam armazenados. Ele pode ficar em um depósito do GitHub ou em seu computador. Você pode armazenar códigos, imagens, áudios, ou qualquer outra coisa relacionada ao projeto no diretório.
 
@@ -47,11 +48,12 @@ Repositório, ou repo, é um diretório onde os arquivos do seu projeto ficam ar
 Branch é uma cópia do diretório. Você pode usar o branch para desenvolver isoladamente.
 
 Trabalhar em um branch não irá afetar o repositório central ou outros branches. Depois de finalizar o trabalho você pode combinar seu branch isolado com outros branches através de um merge. Para combinar o branch isolado ao repositório central utiliza-se o Pull Request.
-Pull Request
+
+**Pull Request**
 
 Efetuar um Pull Request significa informar outros que você irá implementar as mudanças criadas no seu branch ao repositório master. Os colaboradores do repositório podem aceitar ou negar a Pull Request. Ao abrir um Pull Request você pode revisar e discutir seu trabalho com os colaboradores.
 
-**Siga os passos abaixo para criar uma Pull Request no GitHub:**
+***Siga os passos abaixo para criar uma Pull Request no GitHub:***
 
  * Navegue até o repositório e encontre o menu branch.<br>
  * No menu branch, selecione o branch que contém o seu trabalho.<br>
@@ -66,7 +68,7 @@ Dar Forking em um repositório significa que você vai criar um novo projeto bas
 
 Essa é uma ótima ferramenta que para desenvolvimento de projetos. Por ser um projeto totalmente novo, o diretório central não é afetado. Se o diretório master for atualizado, você também pode aplicar a atualização para seu fork atual.
 
-Siga os passos abaixo para dar fork em um repositório no GitHub:
+***Siga os passos abaixo para dar fork em um repositório no GitHub:***
 
  * Encontre o repositório que você deseja dar fork.<br>
    \* Clique no botão ***Fork.***

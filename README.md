@@ -19,7 +19,7 @@ O GitHub também é um dos maiores depósitos online de trabalho colaborativo do
 
 **O Que é Git?**
 
-Agora que você sabe o que é GitHub, temos que entender que o Git é o coração do GitHub. Git é um sistema de controle de versão desenvolvido por [Linus Torvalds(https://pt.wikipedia.org/wiki/Linus_Torvalds).
+Agora que você sabe o que é GitHub, temos que entender que o Git é o coração do GitHub. Git é um sistema de controle de versão desenvolvido por [Linus Torvalds](https://pt.wikipedia.org/wiki/Linus_Torvalds).
 
 **O que é um sistema de controle de versão?**
 

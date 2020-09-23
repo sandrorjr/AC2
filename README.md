@@ -1,5 +1,4 @@
-# AC2
-AC2
+# GITHUB (AC2)
 
 **O Que é GitHub e Para Que é Usado?**
 
@@ -9,13 +8,13 @@ O GitHub também é um dos maiores depósitos online de trabalho colaborativo do
 
 **Conteúdo:**
 
-    O Que é Git?
-    O Que é Hub?
-    Repositório
-    Branch
-    Pull Request
-    Dando um Forking em um Repositório
-    GitHub Não é Apenas Para Desenvolvedores
+   >O Que é Git?
+   O Que é Hub?
+   Repositório
+   Branch
+   Pull Request
+   Dando um Forking em um Repositório
+   GitHub Não é Apenas Para Desenvolvedores
 
 **_O Que é Git?
 
@@ -48,7 +47,7 @@ Pull Request
 Efetuar um Pull Request significa informar outros que você irá implementar as mudanças criadas no seu branch ao repositório master. Os colaboradores do repositório podem aceitar ou negar a Pull Request. Ao abrir um Pull Request você pode revisar e discutir seu trabalho com os colaboradores.
 
 **Siga os passos abaixo para criar uma Pull Request no GitHub:**
-
+ 
     *Navegue até o repositório e encontre o menu branch.
     *No menu branch, selecione o branch que contém o seu trabalho.
     *Clique em New pull request ao lado do menu branch.
@@ -64,8 +63,9 @@ Essa é uma ótima ferramenta que para desenvolvimento de projetos. Por ser um p
 Siga os passos abaixo para dar fork em um repositório no GitHub:
 
     Encontre o repositório que você deseja dar fork.
-    Clique no botão Fork.
-
+    Clique no botão *Fork.
+    
+    
 **_GitHub Não é Apenas Para Desenvolvedores
 
 O GitHub é uma ótima plataforma que mudou o método de trabalho de desenvolvedores. Mas qualquer pessoa que deseja gerenciar seu projeto com eficiência e trabalhar com outros colaboradores também pode usar o GitHub.

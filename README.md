@@ -68,8 +68,8 @@ Essa é uma ótima ferramenta que para desenvolvimento de projetos. Por ser um p
 
 Siga os passos abaixo para dar fork em um repositório no GitHub:
 
- * Encontre o repositório que você deseja dar fork.
- * Clique no botão ***Fork.***
+ * Encontre o repositório que você deseja dar fork.<br>
+   \* Clique no botão ***Fork.***
     
     
 ***GitHub Não é Apenas Para Desenvolvedores***

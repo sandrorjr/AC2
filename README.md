@@ -1,4 +1,4 @@
-# GITHUB (AC2)
+# ![ GITHUB(AC2)!](https://res.cloudinary.com/practicaldev/image/fetch/s--i_sb3chq--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/fk0849hvg2rt13bpqhjy.jpg)
 
 **O Que é GitHub e Para Que é Usado?**
 
@@ -8,13 +8,13 @@ O GitHub também é um dos maiores depósitos online de trabalho colaborativo do
 
 **Conteúdo:**
 
-  * O Que é Git?<br>
-  * O Que é Hub?<br>
-  * Repositório<br>
-  * Branch<br>
-  * Pull Request<br>
-  * Dando um Forking em um Repositório<br>
-  * GitHub Não é Apenas Para Desenvolvedores<br>
+  1. O Que é Git?<br>
+  2. O Que é Hub?<br>
+  3. Repositório<br>
+  4. Branch<br>
+  5. Pull Request<br>
+  6. Dando um Forking em um Repositório<br>
+  7. GitHub Não é Apenas Para Desenvolvedores<br>
 
 
 **O Que é Git?**
